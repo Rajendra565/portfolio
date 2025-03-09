@@ -1,0 +1,96 @@
+[
+
+
+  {
+    "name": "Weather App",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weatherapprajendra.netlify.app/",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Caculator App",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Caculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rajendracaculator.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Moive App",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Moive",
+    "category": "basicweb",
+    "links": {
+      "view": "https://movieguideapprajendra.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Notes App",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Notes",
+    "category": "basicweb",
+    "links": {
+      "view": "https://notesapprajendra.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Word Converter",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "WordCounter",
+    "category": "basicweb",
+    "links": {
+      "view": "https://wordcounterrajendra.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Tasla Clone",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Tasla",
+    "category": "basicweb",
+    "links": {
+      "view": "https://taslaclonerajendra.netlify.app/#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "It shows temples After Complete the project",
+    "image": "ComingSoon",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Coming Soon",
+    "desc": "It shows temples After Complete the project",
+    "image": "ComingSoon",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Caculator App",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "Caculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://randomcolorpaletters.netlify.app/",
+      "code": "#"
+    }
+  }
+]
