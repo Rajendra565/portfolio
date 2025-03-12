@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+Portfolio website built using HTML5, CSS3, JavaScript, and Javascript.
 
 <a href="https://portfoliorajendra.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
@@ -7,7 +7,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 ## 📌 Tech Stack
 
 
-<img alt="Node" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Hd-Hz0vOuWyFXYO3xUrG4_bJQ0wcmd-DtA&s"/>
+<img alt="Node" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png"/>
 
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
