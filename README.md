@@ -7,7 +7,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 ## 📌 Tech Stack
 
 
-<img alt="Node" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=nodejs&logoColor=white"/>
+<img alt="Node" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Hd-Hz0vOuWyFXYO3xUrG4_bJQ0wcmd-DtA&s"/>
 
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
